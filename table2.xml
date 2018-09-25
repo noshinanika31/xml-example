@@ -1,0 +1,18 @@
+<Table2>
+	<Table2>
+		<sl.no>'23'</sl.no>
+		<name>'john_carter'</name>
+		<admission_date>'25/12/2015'</admission_date>
+	</Table2>
+	<Table2>
+		<sl.no>'29'</sl.no>
+		<name>'Bob_Marshal'</name>
+		<admission_date>'13/1/1999'</admission_date>
+	</Table2>
+	<Table2>
+		<sl.no>'35'</sl.no>
+		<name>'clark_kent'</name>
+		<admission_date>'17/06/2015'</admission_date>
+	</Table2>
+	
+</Table2>
